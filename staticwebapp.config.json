@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "route": "/designcapture",
+      "redirect": "https://apps.powerapps.com/play/e/default-d52ec314-a3e0-4858-9fee-f00212faa26f/a/53e0274e-14ef-4522-841b-fb05cc91abbb?tenantId=d52ec314-a3e0-4858-9fee-f00212faa26f&hint=c6a08003-28f1-444f-80c4-71d04ce112df&sourcetime=1754407578813&source=portal"
+    }
+  ]
+}
