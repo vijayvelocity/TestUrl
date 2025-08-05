@@ -1,12 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/designcapture",
-      "methods": [
-        "get",
-        "connect"
-      ],
-      "redirect": "https://apps.logicdatait.com/designcapture.html"
-    }
-  ]
-}
+{}
